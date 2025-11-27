@@ -1,0 +1,14 @@
+body { background: #f8f9fa; }
+header h1 { font-weight: 600; }
+#users-table td, #users-table th { vertical-align: middle; }
+#empty-message { margin-left: .25rem; }
+
+.responsive-img {
+	width: 100%;
+	height: auto;
+	max-height: 60vh;
+	object-fit: cover;
+	display: block;
+}
+
+.figure-caption { color: #6c757d; }
